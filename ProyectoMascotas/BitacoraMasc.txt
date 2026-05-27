@@ -1,0 +1,22 @@
+[QUE ACCION PASO]: Se registro una mascota con el ID1234
+[QUE ACCION PASO]: Se desplego el historial de cada mascota
+[QUE ACCION PASO]: Se busco la mascota con el ID: 1234 con el nombreBenji y es de especiePerro
+[QUE ACCION PASO]: Se registro una mascota con el ID98765
+[QUE ACCION PASO]: Se desplego el historial de cada mascota
+[QUE ACCION PASO]: Se busco la mascota con el ID: 98765 con el nombreSnoppy y es de especieGato
+[QUE ACCION PASO]: Se busco la mascota con el ID: 1234 con el nombre Snoppy y es de especie Gato
+[QUE ACCION PASO]: Se busco la mascota con el ID: 12 con el nombre Snoppy y es de especie Gato
+[QUE ACCION PASO]: Se busco la mascota con el ID: 1234 con el nombre Snoppy y es de especie Gato
+[QUE ACCION PASO]: Se busco la mascota con el ID: 09 con el nombre Snoppy y es de especie Gato
+[QUE ACCION PASO]: No se encontro ninguna mascota con el ID: 98
+[QUE ACCION PASO]: Se busco la mascota con el ID: 98 con el nombre Snoppy y es de especie Gato
+[QUE ACCION PASO]: No se encontro ninguna mascota con el ID: 4567
+[QUE ACCION PASO]: Se registro una mascota con el ID 0987654321
+[QUE ACCION PASO]: Se desplego el historial de cada mascota
+[QUE ACCION PASO]: Se busco la mascota con el ID: 0987654321 con el nombre Capi y es de especie Perro
+[QUE ACCION PASO]: Se registro una mascota con el ID 2345
+[QUE ACCION PASO]: Se desplego el historial de cada mascota
+[QUE ACCION PASO]: Se desplego el historial de cada mascota
+[QUE ACCION PASO]: No se encontro ninguna mascota con el ID: 234
+[QUE ACCION PASO]: Se busco la mascota con el ID: 2345 con el nombre Kratos y es de especie Caballo
+[QUE ACCION PASO]: Se desplego el historial de cada mascota

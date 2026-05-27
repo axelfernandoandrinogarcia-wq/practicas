@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1779495901 source:c:\users\axel\desktop\programacion1\practicas\proyectomascotas\main.cpp
+	<iostream>
+	"mascota.h"
+
+1779496113 c:\users\axel\desktop\programacion1\practicas\proyectomascotas\include\mascota.h
+	<iostream>
+	<fstream>
+	<string>
+
+1779496653 source:c:\users\axel\desktop\programacion1\practicas\proyectomascotas\src\mascota.cpp
+	"mascota.h"
+	<iostream>
+	<fstream>
+	<string>
+
