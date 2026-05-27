@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1779674972 source:c:\users\axel\desktop\programacion1\practicas\cajero\main.cpp
+	<iostream>
+	"simulador.h"
+
+1779678017 c:\users\axel\desktop\programacion1\practicas\cajero\include\simulador.h
+	<iostream>
+	<fstream>
+	<string>
+
