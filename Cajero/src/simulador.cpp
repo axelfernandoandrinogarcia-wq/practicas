@@ -22,7 +22,7 @@ simulador::~simulador()
 {
     //dtor
 }
-
+//Menu principal
 void simulador::principal(){
 system("cls");
 int opcionPrin;
