@@ -89,7 +89,7 @@ case 3:
 }
 }while(opcionPrin!=3);
 }
-
+//menu del cajero
 void simulador::menu(){
 system("cls");
 int MENU;
